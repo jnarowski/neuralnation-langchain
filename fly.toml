@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hello-fly-langchain on 2023-05-02T15:33:58+02:00
+# fly.toml app configuration file generated for neuralnation-langchain on 2023-05-18T17:58:59-06:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "hello-fly-langchain"
+app = "neuralnation-langchain"
 primary_region = "ams"
 kill_signal = "SIGINT"
 kill_timeout = "5s"
